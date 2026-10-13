@@ -1,6 +1,7 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
 #include <stdio.h>
-int main(){
+int main()
+{
     char ch;
     scanf("%c", &ch);
 
@@ -14,7 +15,6 @@ int main(){
         ch = ch + 32;
         printf("%c", ch);
     }
-    
 
     return 0;
 }

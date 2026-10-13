@@ -1,6 +1,7 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 #include <stdio.h>
-int main(){
+int main()
+{
     char ch;
     scanf("%c", &ch);
     if (ch >= '0' && ch <= '9')
